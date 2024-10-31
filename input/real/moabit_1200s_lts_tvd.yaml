@@ -1,0 +1,5 @@
+nx: 1024
+ny: 1000
+blocksizeX: 64
+blocksizeY: 64
+nOuterLayers: 2

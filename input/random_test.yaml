@@ -1,0 +1,6 @@
+nx: 100
+ny: 100
+blocksizeX: 8
+blocksizeY: 8
+nOuterLayers: 2
+# scale: 2

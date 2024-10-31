@@ -1,0 +1,5 @@
+nx: 640
+ny: 512
+blocksizeX: 32
+blocksizeY: 32
+nOuterLayers: 0
